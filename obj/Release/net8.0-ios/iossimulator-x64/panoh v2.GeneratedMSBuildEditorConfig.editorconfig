@@ -1,0 +1,119 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = panoh_v2
+build_property.ProjectDir = C:\Users\Eldorbek\source\repos\panoh v2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Eldorbek/source/repos/panoh v2/account.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.account.xaml
+build_metadata.AdditionalFiles.TargetPath = account.xaml
+build_metadata.AdditionalFiles.RelativePath = account.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/boshoynA.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.boshoynA.xaml
+build_metadata.AdditionalFiles.TargetPath = boshoynA.xaml
+build_metadata.AdditionalFiles.RelativePath = boshoynA.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/chaqiruvnikiritiSH.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.chaqiruvnikiritiSH.xaml
+build_metadata.AdditionalFiles.TargetPath = chaqiruvnikiritiSH.xaml
+build_metadata.AdditionalFiles.RelativePath = chaqiruvnikiritiSH.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/KartaZakaz.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.KartaZakaz.xaml
+build_metadata.AdditionalFiles.TargetPath = KartaZakaz.xaml
+build_metadata.AdditionalFiles.RelativePath = KartaZakaz.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/location.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.location.xaml
+build_metadata.AdditionalFiles.TargetPath = location.xaml
+build_metadata.AdditionalFiles.RelativePath = location.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/locationMy2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.locationMy2.xaml
+build_metadata.AdditionalFiles.TargetPath = locationMy2.xaml
+build_metadata.AdditionalFiles.RelativePath = locationMy2.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/Mainpage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.Mainpage.xaml
+build_metadata.AdditionalFiles.TargetPath = Mainpage.xaml
+build_metadata.AdditionalFiles.RelativePath = Mainpage.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/mapspage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.mapspage.xaml
+build_metadata.AdditionalFiles.TargetPath = mapspage.xaml
+build_metadata.AdditionalFiles.RelativePath = mapspage.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/marshrutt.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.marshrutt.xaml
+build_metadata.AdditionalFiles.TargetPath = marshrutt.xaml
+build_metadata.AdditionalFiles.RelativePath = marshrutt.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/Oferta.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.Oferta.xaml
+build_metadata.AdditionalFiles.TargetPath = Oferta.xaml
+build_metadata.AdditionalFiles.RelativePath = Oferta.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/RegistratsiyaMchj.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.RegistratsiyaMchj.xaml
+build_metadata.AdditionalFiles.TargetPath = RegistratsiyaMchj.xaml
+build_metadata.AdditionalFiles.RelativePath = RegistratsiyaMchj.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/viboR.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.viboR.xaml
+build_metadata.AdditionalFiles.TargetPath = viboR.xaml
+build_metadata.AdditionalFiles.RelativePath = viboR.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/xaritA.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.xaritA.xaml
+build_metadata.AdditionalFiles.TargetPath = xaritA.xaml
+build_metadata.AdditionalFiles.RelativePath = xaritA.xaml
+
+[C:/Users/Eldorbek/source/repos/panoh v2/zakazTushdi.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = panoh_v2.zakazTushdi.xaml
+build_metadata.AdditionalFiles.TargetPath = zakazTushdi.xaml
+build_metadata.AdditionalFiles.RelativePath = zakazTushdi.xaml

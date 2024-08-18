@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="panoh_v2.Oferta"
+             Title="Oferta"
+             BackgroundImageSource="imagee.png"
+             >
+    <ScrollView>
+    <VerticalStackLayout>
+        <Label FontSize="20" FontAttributes="Italic" Margin="20"
+            Text="Oferta, offerta (lotincha: offero — „taklif etaman“) — bir shaxsning boshqa shaxsga tovar yetkazib berish, birorbir xizmat koʻrsatish va boshqa uchun shartnoma tuzish istagi va shartlari haqida yozma yoki ogʻzaki xabarnomasi. Shunday xabar yuborgan jismoniy yoki yuridik shaxs offerent, xabarnoma olgan shaxs akseptant deb ataladi (qarang Aksept).
+
+            Oferta qabul qilingan hollarda akseptant offerentni yozma xabardor qiladi va tomonlar bitimi rasmiy kuchga kiradi. Oferta unda koʻrsatilgan amal qilish muddatiga ega boʻladi. Shu muddat davomida akseptant ofertani qabul qilish huquqiga ega va bu oferent bilan shartnoma majburiyatlarini bogʻlab oladi.
+
+            Xalqaro savdoda ofertaning qatʼiy va erkin turlari bor. Qatʼiy oferta offerentning tovarlar partiyasini sotish imkoniyati haqidagi muddati koʻrsatilgan yozma taklifi ehtimoli boʻlgan hari-dorlardan faqat bittasiga yuboriladi va sotish shu muddat davomida oʻz taklifiga bogʻlanib qoladi (javob kutadi) va shunday taklifni boshqa haridorga qoʻllay olmaydi. Erkin ofertada bir vaqtning oʻzida bir tovar partiyasi bir qancha haridorlarga taklif etiladi va javob uchun muddat belgilanmaydi va shu jixat bilan offerentni majburiyatlar bilan bogʻlab qoʻymaydi. Haridorning ofertaga roziligi haqidagi yozma javobi bitim imzolanganligini tasdiqlaydi."
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+            <Button TranslationY="-6" x:Name="close" Clicked="close_Clicked" Text="Chiqish" WidthRequest="340" FontAttributes="Bold" FontSize="20" Opacity="0.85" TextColor="#486C79" BackgroundColor="#cccccc"></Button>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

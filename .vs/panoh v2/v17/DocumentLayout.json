@@ -1,0 +1,587 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\panoh v2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:panoh v2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\panoh v2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:panoh v2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\xarita.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:xarita.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\locationmy2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:locationmy2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\locationmy2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:locationmy2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\xarita.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:xarita.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\location.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:location.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\marshrutt.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:marshrutt.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\marshrutt.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:marshrutt.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\location.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:location.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\mapspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:mapspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\mapspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:mapspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\boshoyna.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:boshoyna.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\boshoyna.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:boshoyna.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\kartazakaz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:kartazakaz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\chaqiruvnikiritish.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:chaqiruvnikiritish.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\chaqiruvnikiritish.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:chaqiruvnikiritish.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\kartazakaz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:kartazakaz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\registratsiyamchj.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:registratsiyamchj.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\zakaztushdi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:zakaztushdi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\registratsiyamchj.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:registratsiyamchj.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\account.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:account.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\zakaztushdi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:zakaztushdi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\vibor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:vibor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\oferta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:oferta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\vibor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:vibor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\account.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:account.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|c:\\users\\eldorbek\\source\\repos\\panoh v2\\oferta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A4CE672-91B9-43AA-9FFA-5E3CCEE3E712}|panoh v2.csproj|solutionrelative:oferta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 13,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "panoh v2",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\panoh v2.csproj",
+              "RelativeDocumentMoniker": "panoh v2.csproj",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\panoh v2.csproj",
+              "RelativeToolTip": "panoh v2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T23:35:51.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAJsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-30T20:51:08.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "panoh v2",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\panoh v2.csproj",
+              "RelativeDocumentMoniker": "panoh v2.csproj",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\panoh v2.csproj",
+              "RelativeToolTip": "panoh v2.csproj",
+              "ViewState": "AQIAAIcAAAAAAAAAAABBwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T19:50:26.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-30T21:44:37.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "locationMy2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\locationMy2.xaml.cs",
+              "RelativeDocumentMoniker": "locationMy2.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\locationMy2.xaml.cs",
+              "RelativeToolTip": "locationMy2.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:20:15.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "xaritA.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\xaritA.xaml",
+              "RelativeDocumentMoniker": "xaritA.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\xaritA.xaml",
+              "RelativeToolTip": "xaritA.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T20:10:53.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "chaqiruvnikiritiSH.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\chaqiruvnikiritiSH.xaml.cs",
+              "RelativeDocumentMoniker": "chaqiruvnikiritiSH.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\chaqiruvnikiritiSH.xaml.cs",
+              "RelativeToolTip": "chaqiruvnikiritiSH.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:17:54.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mainpage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\mainpage.xaml.cs",
+              "RelativeDocumentMoniker": "mainpage.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\mainpage.xaml.cs",
+              "RelativeToolTip": "mainpage.xaml.cs",
+              "ViewState": "AQIAAAcAAAD4OjMzMzMZwAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:51:24.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "xaritA.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\xaritA.xaml.cs",
+              "RelativeDocumentMoniker": "xaritA.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\xaritA.xaml.cs",
+              "RelativeToolTip": "xaritA.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:15:17.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mainpage.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\Mainpage.xaml",
+              "RelativeDocumentMoniker": "Mainpage.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\Mainpage.xaml",
+              "RelativeToolTip": "Mainpage.xaml",
+              "ViewState": "AQIAAB0AAAAA8DIzMzP7vyAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T13:51:15.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "locationMy2.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\locationMy2.xaml",
+              "RelativeDocumentMoniker": "locationMy2.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\locationMy2.xaml",
+              "RelativeToolTip": "locationMy2.xaml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T20:15:56.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "marshrutt.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\marshrutt.xaml.cs",
+              "RelativeDocumentMoniker": "marshrutt.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\marshrutt.xaml.cs",
+              "RelativeToolTip": "marshrutt.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:13:45.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "mapspage.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\mapspage.xaml",
+              "RelativeDocumentMoniker": "mapspage.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\mapspage.xaml",
+              "RelativeToolTip": "mapspage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T13:53:29.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "location.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\location.xaml.cs",
+              "RelativeDocumentMoniker": "location.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\location.xaml.cs",
+              "RelativeToolTip": "location.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:24:29.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "location.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\location.xaml",
+              "RelativeDocumentMoniker": "location.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\location.xaml",
+              "RelativeToolTip": "location.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T17:18:56.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "mapspage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\mapspage.xaml.cs",
+              "RelativeDocumentMoniker": "mapspage.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\mapspage.xaml.cs",
+              "RelativeToolTip": "mapspage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:53:37.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "marshrutt.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\marshrutt.xaml",
+              "RelativeDocumentMoniker": "marshrutt.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\marshrutt.xaml",
+              "RelativeToolTip": "marshrutt.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T16:23:28.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegistratsiyaMchj.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\RegistratsiyaMchj.xaml",
+              "RelativeDocumentMoniker": "RegistratsiyaMchj.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\RegistratsiyaMchj.xaml",
+              "RelativeToolTip": "RegistratsiyaMchj.xaml",
+              "ViewState": "AQIAABoAAAAAJjMzMzMbwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T17:03:11.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "boshoynA.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\boshoynA.xaml",
+              "RelativeDocumentMoniker": "boshoynA.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\boshoynA.xaml",
+              "RelativeToolTip": "boshoynA.xaml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T19:47:52.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "boshoynA.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\boshoynA.xaml.cs",
+              "RelativeDocumentMoniker": "boshoynA.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\boshoynA.xaml.cs",
+              "RelativeToolTip": "boshoynA.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:48:58.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KartaZakaz.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\KartaZakaz.xaml",
+              "RelativeDocumentMoniker": "KartaZakaz.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\KartaZakaz.xaml",
+              "RelativeToolTip": "KartaZakaz.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T17:50:12.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "chaqiruvnikiritiSH.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\chaqiruvnikiritiSH.xaml",
+              "RelativeDocumentMoniker": "chaqiruvnikiritiSH.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\chaqiruvnikiritiSH.xaml",
+              "RelativeToolTip": "chaqiruvnikiritiSH.xaml",
+              "ViewState": "AQIAACEAAABAn5mZmRkiwDIAAAC+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T19:16:13.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KartaZakaz.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\KartaZakaz.xaml.cs",
+              "RelativeDocumentMoniker": "KartaZakaz.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\KartaZakaz.xaml.cs",
+              "RelativeToolTip": "KartaZakaz.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T17:51:24.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "zakazTushdi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\zakazTushdi.xaml.cs",
+              "RelativeDocumentMoniker": "zakazTushdi.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\zakazTushdi.xaml.cs",
+              "RelativeToolTip": "zakazTushdi.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:02:34.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegistratsiyaMchj.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\RegistratsiyaMchj.xaml.cs",
+              "RelativeDocumentMoniker": "RegistratsiyaMchj.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\RegistratsiyaMchj.xaml.cs",
+              "RelativeToolTip": "RegistratsiyaMchj.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T17:04:12.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "account.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\account.xaml",
+              "RelativeDocumentMoniker": "account.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\account.xaml",
+              "RelativeToolTip": "account.xaml",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAGkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T13:50:42.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "zakazTushdi.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\zakazTushdi.xaml",
+              "RelativeDocumentMoniker": "zakazTushdi.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\zakazTushdi.xaml",
+              "RelativeToolTip": "zakazTushdi.xaml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T18:01:53.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Oferta.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\Oferta.xaml.cs",
+              "RelativeDocumentMoniker": "Oferta.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\Oferta.xaml.cs",
+              "RelativeToolTip": "Oferta.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:51:45.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "viboR.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\viboR.xaml",
+              "RelativeDocumentMoniker": "viboR.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\viboR.xaml",
+              "RelativeToolTip": "viboR.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T16:43:13.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "viboR.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\viboR.xaml.cs",
+              "RelativeDocumentMoniker": "viboR.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\viboR.xaml.cs",
+              "RelativeToolTip": "viboR.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:44:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "account.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\account.xaml.cs",
+              "RelativeDocumentMoniker": "account.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\account.xaml.cs",
+              "RelativeToolTip": "account.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAOzMzMzP7vwcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:50:54.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:48:17.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Oferta.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\Oferta.xaml",
+              "RelativeDocumentMoniker": "Oferta.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\panoh v2\\Oferta.xaml",
+              "RelativeToolTip": "Oferta.xaml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBEAAADIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T13:51:38.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

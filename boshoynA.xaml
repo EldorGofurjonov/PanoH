@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="panoh_v2.boshoynA"
+             Title="boshoynA"           
+            BackgroundImageSource="kartazakaz.jpg"
+            >
+    <FlyoutPage.Flyout>
+        <ContentPage Title="hello1" BackgroundColor="Transparent">
+            <VerticalStackLayout Spacing="10" >
+                <Label 
+
+Text="Ma'lumotlar"
+FontSize="25"
+Padding="40"
+FontAttributes="Bold"
+VerticalOptions="Center" 
+HorizontalOptions="Center"
+            TextColor="White"
+            />
+                <VerticalStackLayout Spacing="20" HorizontalOptions="Center"  >
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" HorizontalOptions="Start" WidthRequest="240" Text="Chaqiruvlar tarixi" FontSize="20" FontAttributes="Bold" ></Button>
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" HorizontalOptions="Start" WidthRequest="240" Text="Malumotnomalar" FontSize="20" FontAttributes="Bold"></Button>
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" HorizontalOptions="Start" WidthRequest="240" Text="Hujjatlar" FontSize="20" FontAttributes="Bold"></Button>
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" HorizontalOptions="Start" WidthRequest="240" Text="Biz bilan bog'lanish" FontSize="20" FontAttributes="Bold"></Button>
+                </VerticalStackLayout>
+            </VerticalStackLayout>
+        </ContentPage>
+    </FlyoutPage.Flyout>
+
+    <FlyoutPage.Detail>
+        <NavigationPage BarBackgroundColor="#CFCDCE" BarTextColor="#212F40">
+            <x:Arguments>
+                <ContentPage Title="PanoH" BackgroundColor="Transparent">
+                    <!--BackgroundImageSource="imagee.png">-->
+
+                </ContentPage>
+            </x:Arguments>
+        </NavigationPage>
+    </FlyoutPage.Detail>
+
+    </FlyoutPage>

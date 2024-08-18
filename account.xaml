@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="panoh_v2.Myaccount"
+             Title="account"
+            
+           
+             >
+    <FlyoutPage.Flyout>
+        <ContentPage Title="Page1" BackgroundColor="Transparent" >
+            <!--BackgroundImageSource="imagee.png"   >-->
+            <VerticalStackLayout Spacing="10" >
+                <Label 
+        
+        Text="Ilova tilli"
+        FontSize="25"
+        Padding="40"
+        FontAttributes="Bold"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+                    TextColor="White"
+                    />
+                <VerticalStackLayout Spacing="20" HorizontalOptions="Center" TranslationY="0" >
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" WidthRequest="240" Text="Uzbek" FontSize="20" FontAttributes="Bold" ></Button>
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" WidthRequest="240" Text="Русский" FontSize="20" FontAttributes="Bold"></Button>
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" WidthRequest="240" Text="English" FontSize="20" FontAttributes="Bold"></Button>
+                </VerticalStackLayout>
+            </VerticalStackLayout>
+        </ContentPage>
+    </FlyoutPage.Flyout>
+
+    <FlyoutPage.Detail >
+        <NavigationPage BarBackgroundColor="#CFCDCE" BarTextColor="#212F40">
+            
+            <x:Arguments>
+                <ContentPage Title="Ro'yxatdan o'tish" BackgroundImageSource="imagee.png">
+                    
+    <VerticalStackLayout Spacing="10">
+        
+        
+        <Image Source="user.png" HeightRequest="150" Margin="0,5">
+            
+        </Image>
+
+        <Border WidthRequest="320"  StrokeThickness="5" Stroke="#2c3136" >
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="15"/>
+            </Border.StrokeShape>
+
+            <Frame  Padding="9" WidthRequest="311" BackgroundColor="Gray" BorderColor="#2c3136" CornerRadius="15" Opacity="0.85">
+               
+                <HorizontalStackLayout>
+                    
+                <Entry MaxLength="2" TextTransform="Uppercase"  Placeholder="AD" FontSize="20" HorizontalTextAlignment="Start"></Entry>
+                <Entry MaxLength="7" TextTransform="Uppercase"  Placeholder="1234567" FontSize="20" HorizontalTextAlignment="Start"></Entry>
+                </HorizontalStackLayout>
+            </Frame>
+        </Border>
+        
+        <Border WidthRequest="320"  StrokeThickness="5" Stroke="#2c3136" >
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="15"/>
+            </Border.StrokeShape>
+                            <Frame Padding="9" WidthRequest="311" BackgroundColor="Gray" BorderColor="#2c3136" CornerRadius="15" Opacity="0.85" >
+                <Entry  Placeholder="JSHSHIR:308451956784958" FontSize="20" HorizontalTextAlignment="Start" Keyboard="Numeric" MaxLength="15"></Entry>
+            </Frame>
+        </Border>
+        
+        <Border WidthRequest="320"  StrokeThickness="5" Stroke="#2c3136" >
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="15"/>
+            </Border.StrokeShape>
+                            <Frame Padding="9" WidthRequest="311" BackgroundColor="Gray" BorderColor="#2c3136" CornerRadius="15" Opacity="0.85" >
+                <Entry   Placeholder="Parol" FontSize="20" HorizontalTextAlignment="Start" IsPassword="True"></Entry>
+            </Frame>
+        </Border>
+        
+        <Border WidthRequest="320"  StrokeThickness="5" Stroke="#2c3136" >
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="15"/>
+            </Border.StrokeShape>
+                            <Frame Padding="9" WidthRequest="311" BackgroundColor="Gray" BorderColor="#2c3136" CornerRadius="15" Opacity="0.85" >
+                <Entry  Placeholder="Parolni tasdiqlash" FontSize="20" HorizontalTextAlignment="Start" IsPassword="True"></Entry>
+            </Frame>
+        </Border>
+
+            <HorizontalStackLayout HorizontalOptions="Center">
+                <CheckBox Color="White"/>
+
+                            <Button Opacity="0.85" Text="Oferta shartlariga rozimisiz" TextColor="white" BackgroundColor="#00FFFFFF" VerticalOptions="Center" FontAttributes="Bold" FontSize="20" x:Name="oferta" Clicked="oferta_Clicked"></Button>
+            </HorizontalStackLayout>
+        <Border WidthRequest="320"  StrokeThickness="5" Stroke="#2c3136" >
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="15"/>
+            </Border.StrokeShape>
+            <Frame Padding="9" WidthRequest="311" BackgroundColor="#cccccc" BorderColor="#2c3136" CornerRadius="15" >
+                                <Button x:Name="SingUpButton" x:FieldModifier="public"  WidthRequest="311" Opacity="0.85" BackgroundColor="#cccccc" Text="Davom etish" FontAttributes="Bold" FontSize="20" TextColor="#486C79" Clicked="Button_Clicked"></Button>
+            </Frame>
+        </Border>
+
+    </VerticalStackLayout>
+                </ContentPage>
+            </x:Arguments>
+        </NavigationPage>
+    </FlyoutPage.Detail>
+</FlyoutPage>

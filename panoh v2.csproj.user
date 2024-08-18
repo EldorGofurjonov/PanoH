@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
+    <ActiveDebugFramework>net8.0-android</ActiveDebugFramework>
+    <ActiveDebugProfile>Android Emulator</ActiveDebugProfile>
+    <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
+  </PropertyGroup>
+  <ItemGroup>
+    <MauiXaml Update="account.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="boshoynA.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="chaqiruvnikiritiSH.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="KartaZakaz.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="location.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="locationMy2.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Mainpage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="mapspage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="marshrutt.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Oferta.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="RegistratsiyaMchj.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="viboR.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="xaritA.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="zakazTushdi.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="App.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Platforms\Windows\App.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Platforms\Windows\Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Resources\Styles\Colors.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Resources\Styles\Styles.xaml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

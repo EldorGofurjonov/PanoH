@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="panoh_v2.viboR"
+             Title="viboR">
+    <FlyoutPage.Flyout>
+        <ContentPage Title="Page1" BackgroundColor="Transparent" >
+            <!--BackgroundImageSource="imagee.png"   >-->
+            <VerticalStackLayout Spacing="10" >
+                <Label 
+        
+        Text="Ilova tilli"
+        FontSize="25"
+        Padding="40"
+        FontAttributes="Bold"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+                    TextColor="White"
+                    />
+                <VerticalStackLayout Spacing="20" HorizontalOptions="Center" TranslationY="0" >
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" WidthRequest="240" Text="Uzbek" FontSize="20" FontAttributes="Bold" ></Button>
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" WidthRequest="240" Text="Русский" FontSize="20" FontAttributes="Bold"></Button>
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" WidthRequest="240" Text="English" FontSize="20" FontAttributes="Bold"></Button>
+                </VerticalStackLayout>
+            </VerticalStackLayout>
+        </ContentPage>
+    </FlyoutPage.Flyout>
+
+    <FlyoutPage.Detail >
+        <NavigationPage BarBackgroundColor="#CFCDCE" BarTextColor="#212F40">
+
+            <x:Arguments>
+                <ContentPage Title="PanoH" BackgroundImageSource="imagee.png">
+
+                    <VerticalStackLayout Spacing="10" VerticalOptions="Center">
+
+                        <Border WidthRequest="320"  StrokeThickness="5" Stroke="#2c3136" >
+                            <Border.StrokeShape>
+                                <RoundRectangle CornerRadius="15"/>
+                            </Border.StrokeShape>
+                            <Frame Padding="9" WidthRequest="311" BackgroundColor="#cccccc" BorderColor="#2c3136" CornerRadius="15" >
+                                <Button x:Name="Foydalanuvchi"
+                                        x:FieldModifier="public" 
+                                        WidthRequest="311" Opacity="0.85"
+                                        BackgroundColor="#cccccc" Text="Foydalanuvchi" 
+                                        FontAttributes="Bold"
+                                        FontSize="20" 
+                                        TextColor="#486C79"
+                                        Clicked="Foydalanuvchi_Clicked"
+                                        ></Button>
+                            </Frame>
+                        </Border>
+                        
+                        <Border WidthRequest="320"  StrokeThickness="5" Stroke="#2c3136" >
+                            <Border.StrokeShape>
+                                <RoundRectangle CornerRadius="15"/>
+                            </Border.StrokeShape>
+                            <Frame Padding="9" WidthRequest="311" BackgroundColor="#cccccc" BorderColor="#2c3136" CornerRadius="15" >
+                                <Button x:Name="Xizmatkorsatuvchi" x:FieldModifier="public"  WidthRequest="311" Opacity="0.85" BackgroundColor="#cccccc" Text="Xizmat ko'rsatuvchi" FontAttributes="Bold" FontSize="20" TextColor="#486C79" Clicked="Xizmatkorsatuvchi_Clicked"></Button>
+                            </Frame>
+                        </Border>
+                        
+                    </VerticalStackLayout>
+                </ContentPage>
+            </x:Arguments>
+        </NavigationPage>
+    </FlyoutPage.Detail>
+    </FlyoutPage>

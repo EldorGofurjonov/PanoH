@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\dotnet_bot@3x.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\dotnet_bot@2x.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\dotnet_bot.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\information.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\fire.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\emergence.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\police.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\gas.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\dotnet_bott.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\user.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\house.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\circle.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\handcuffs.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\crane.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\locationmashin.jpg" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\fvv.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\userimage.jpg" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\imagee1.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\marshrut.jpg" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\imagee.jpg" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\kartazakaz.jpg" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\human.png" />
+    <BundleResource Include="C:\Users\Eldorbek\source\repos\panoh v2\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\menu.png" />
+    <BundleResource Include="obj\Release\net8.0-maccatalyst\resizetizer\f\OpenSans-Regular.ttf" />
+    <BundleResource Include="obj\Release\net8.0-maccatalyst\resizetizer\f\OpenSans-Semibold.ttf" />
+  </ItemGroup>
+</Project>

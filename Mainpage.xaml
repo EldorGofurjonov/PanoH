@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="panoh_v2.Mainpage"
+             Title="mainpage"
+             BackgroundImageSource="imagee.png"
+             >
+    <FlyoutPage.Flyout>
+        <ContentPage Title="hello1" BackgroundColor="Transparent">
+            <VerticalStackLayout Spacing="10" >
+                <Label 
+
+Text="Ma'lumotlarim"
+FontSize="25"
+Padding="40"
+FontAttributes="Bold"
+VerticalOptions="Center" 
+HorizontalOptions="Center"
+            TextColor="White"
+            />
+                <VerticalStackLayout Spacing="20" HorizontalOptions="Center"  >
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" HorizontalOptions="Start" WidthRequest="240" Text="Chaqiruvlar tarixi" FontSize="20" FontAttributes="Bold" ></Button>
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" HorizontalOptions="Start" WidthRequest="240" Text="Kasallik tarixi" FontSize="20" FontAttributes="Bold"></Button>
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" HorizontalOptions="Start" WidthRequest="240" Text="Malumotnomalarim" FontSize="20" FontAttributes="Bold"></Button>
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" HorizontalOptions="Start" WidthRequest="240" Text="Hujjatlar" FontSize="20" FontAttributes="Bold"></Button>
+                    <Button Opacity="0.85" BackgroundColor="#AAFFFFFF" HorizontalOptions="Start" WidthRequest="240" Text="Biz bilan bog'lanish" FontSize="20" FontAttributes="Bold"></Button>
+                </VerticalStackLayout>
+            </VerticalStackLayout>
+        </ContentPage>
+    </FlyoutPage.Flyout>
+
+    <FlyoutPage.Detail>
+        <NavigationPage BarBackgroundColor="#CFCDCE" BarTextColor="#212F40">
+            <x:Arguments>
+                <ContentPage Title="PanoH" BackgroundColor="Transparent">
+                    <!--BackgroundImageSource="imagee.png">-->
+                    <VerticalStackLayout Spacing="20" Padding="35">
+
+                        <!-- 103 -->
+                        <Frame ZIndex="1"
+           WidthRequest="255"
+           HeightRequest="70"
+           CornerRadius="30"
+           Opacity="0.85"
+           BackgroundColor="#AAFFFFFF">
+                            <AbsoluteLayout HeightRequest="70" WidthRequest="255">
+                               
+                                <Label Padding="10"
+                   FontAttributes="Italic"
+                   FontSize="18"
+                   ZIndex="1"
+                   HorizontalOptions="End"
+                   HorizontalTextAlignment="End"
+                   VerticalTextAlignment="Center"
+                   HeightRequest="70"
+                   WidthRequest="255"
+                   AbsoluteLayout.LayoutBounds="0,0,1,1"
+                   AbsoluteLayout.LayoutFlags="All">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="Tez yordam " TextColor="Gray" FontAttributes="Italic"/>
+                                            <Span Text="103" TextColor="Red" FontAttributes="Bold" />
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                               
+                                <Slider ZIndex="3"
+                    WidthRequest="255"
+                    HeightRequest="70"
+                    Minimum="1"
+                    Maximum="100"
+                    ThumbImageSource="emergence.png"
+                    Value="9"
+                    x:Name="tezyordam"
+                    ValueChanged="tezyordam_ValueChanged"
+                    MinimumTrackColor="Transparent"
+                    MaximumTrackColor="Transparent"
+                    AbsoluteLayout.LayoutBounds="0,0,1,1"
+                    AbsoluteLayout.LayoutFlags="All"/>
+                            </AbsoluteLayout>
+                        </Frame>
+
+                        
+                        
+                        <!-- 101 -->
+                        <Frame ZIndex="1"
+           WidthRequest="255"
+           HeightRequest="70"
+           CornerRadius="30"
+           Opacity="0.85"
+           BackgroundColor="#AAFFFFFF">
+                            <AbsoluteLayout HeightRequest="70" WidthRequest="255">
+                                
+                                <Label Padding="10"
+                   FontAttributes="Italic"
+                   FontSize="18"
+                   ZIndex="1"
+                   HorizontalOptions="End"
+                   HorizontalTextAlignment="End"
+                   VerticalTextAlignment="Center"
+                   HeightRequest="70"
+                   WidthRequest="255"
+                   AbsoluteLayout.LayoutBounds="0,0,1,1"
+                   AbsoluteLayout.LayoutFlags="All">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="O't o'chirish  " TextColor="Gray" FontAttributes="Italic"/>
+                                            <Span Text="101" TextColor="Red" FontAttributes="Bold" />
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                              
+                                <Slider ZIndex="1"
+                    WidthRequest="255"
+                    HeightRequest="70"
+                    Minimum="1"
+                    Maximum="100"
+                    ThumbImageSource="fire.png"
+                    Value="9"
+                    x:Name="otochirish"
+                    ValueChanged="otochirish_ValueChanged"
+                    MinimumTrackColor="Transparent"
+                    MaximumTrackColor="Transparent"
+                    AbsoluteLayout.LayoutBounds="0,0,1,1"
+                    AbsoluteLayout.LayoutFlags="All"/>
+                            </AbsoluteLayout>
+                        </Frame>
+
+                        <!-- 1050-->
+                        <Frame ZIndex="1"
+           WidthRequest="255"
+           HeightRequest="70"
+           CornerRadius="30"
+           Opacity="0.85"
+           BackgroundColor="#AAFFFFFF">
+                            <AbsoluteLayout HeightRequest="70" WidthRequest="255">
+                                <!-- Размещаем Label -->
+                                <Label Padding="10"
+                   FontAttributes="Italic"
+                   FontSize="18"
+                   ZIndex="1"
+                   HorizontalOptions="End"
+                   HorizontalTextAlignment="End"
+                   VerticalTextAlignment="Center"
+                   HeightRequest="70"
+                   WidthRequest="255"
+                   AbsoluteLayout.LayoutBounds="0,0,1,1"
+                   AbsoluteLayout.LayoutFlags="All">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="FVV             " TextColor="Gray" FontAttributes="Italic"/>
+                                            <Span Text="1050" TextColor="Red" FontAttributes="Bold" />
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <!-- Размещаем Slider -->
+                                <Slider ZIndex="1"
+                    WidthRequest="255"
+                    HeightRequest="70"
+                    Minimum="1"
+                    Maximum="100"
+                    ThumbImageSource="fvv.png"
+                    Value="9"
+                    x:Name="FVV"
+                    ValueChanged="FVV_ValueChanged"
+                    MinimumTrackColor="Transparent"
+                    MaximumTrackColor="Transparent"
+                    AbsoluteLayout.LayoutBounds="0,0,1,1"
+                    AbsoluteLayout.LayoutFlags="All"/>
+                            </AbsoluteLayout>
+                        </Frame>
+
+                        <!-- 102-->
+                        <Frame ZIndex="1"
+           WidthRequest="255"
+           HeightRequest="70"
+           CornerRadius="30"
+           Opacity="0.85"
+           BackgroundColor="#AAFFFFFF">
+                            <AbsoluteLayout HeightRequest="70" WidthRequest="255">
+                                <!-- Размещаем Label -->
+                                <Label Padding="10"
+                   FontAttributes="Italic"
+                   FontSize="18"
+                   ZIndex="1"
+                   HorizontalOptions="End"
+                   HorizontalTextAlignment="End"
+                   VerticalTextAlignment="Center"
+                   HeightRequest="70"
+                   WidthRequest="255"
+                   AbsoluteLayout.LayoutBounds="0,0,1,1"
+                   AbsoluteLayout.LayoutFlags="All">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="Ichki Ishlar   " TextColor="Gray" FontAttributes="Italic"/>
+                                            <Span Text="102" TextColor="Red" FontAttributes="Bold" />
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <!-- Размещаем Slider -->
+                                <Slider ZIndex="1"
+                    WidthRequest="255"
+                    HeightRequest="70"
+                    Minimum="1"
+                    Maximum="100"
+                    ThumbImageSource="handcuffs.png"
+                    Value="9"
+                    x:Name="ichkiishlar"
+                    ValueChanged="ichkiishlar_ValueChanged"
+                    MinimumTrackColor="Transparent"
+                    MaximumTrackColor="Transparent"
+                    AbsoluteLayout.LayoutBounds="0,0,1,1"
+                    AbsoluteLayout.LayoutFlags="All"/>
+                            </AbsoluteLayout>
+                        </Frame>
+
+                        <!-- 102-->
+                        <Frame ZIndex="1"
+           WidthRequest="255"
+           HeightRequest="70"
+           CornerRadius="30"
+           Opacity="0.85"
+           BackgroundColor="#AAFFFFFF">
+                            <AbsoluteLayout HeightRequest="70" WidthRequest="255">
+                                <!-- Размещаем Label -->
+                                <Label Padding="10"
+                   FontAttributes="Italic"
+                   FontSize="18"
+                   ZIndex="1"
+                   HorizontalOptions="End"
+                   HorizontalTextAlignment="End"
+                   VerticalTextAlignment="Center"
+                   HeightRequest="70"
+                   WidthRequest="255"
+                   AbsoluteLayout.LayoutBounds="0,0,1,1"
+                   AbsoluteLayout.LayoutFlags="All">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="YPX               " TextColor="Gray" FontAttributes="Italic"/>
+                                            <Span Text="102" TextColor="Red" FontAttributes="Bold" />
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <!-- Размещаем Slider -->
+                                <Slider ZIndex="1"
+                    WidthRequest="255"
+                    HeightRequest="70"
+                    Minimum="1"
+                    Maximum="100"
+                    ThumbImageSource="police.png"
+                    Value="9"
+                    x:Name="YPX"
+                    ValueChanged="YPX_ValueChanged"
+                    MinimumTrackColor="Transparent"
+                    MaximumTrackColor="Transparent"
+                    AbsoluteLayout.LayoutBounds="0,0,1,1"
+                    AbsoluteLayout.LayoutFlags="All"/>
+                            </AbsoluteLayout>
+                        </Frame>
+
+                        <!-- 104 -->
+                        <Frame ZIndex="1"
+           WidthRequest="255"
+           HeightRequest="70"
+           CornerRadius="30"
+           Opacity="0.85"
+           BackgroundColor="#AAFFFFFF">
+                            <AbsoluteLayout HeightRequest="70" WidthRequest="255">
+                                <!-- Размещаем Label -->
+                                <Label Padding="10"
+                   FontAttributes="Italic"
+                   FontSize="18"
+                   ZIndex="1"
+                   HorizontalOptions="End"
+                   HorizontalTextAlignment="End"
+                   VerticalTextAlignment="Center"
+                   HeightRequest="70"
+                   WidthRequest="255"
+                   AbsoluteLayout.LayoutBounds="0,0,1,1"
+                   AbsoluteLayout.LayoutFlags="All">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="Gaz               " TextColor="Gray" FontAttributes="Italic"/>
+                                            <Span Text="104" TextColor="Red" FontAttributes="Bold" />
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <!-- Размещаем Slider -->
+                                <Slider ZIndex="1"
+                    WidthRequest="255"
+                    HeightRequest="70"
+                    Minimum="1"
+                    Maximum="100"
+                    ThumbImageSource="gas.png"
+                    Value="9"
+                    x:Name="Gaz"
+                    ValueChanged="Gaz_ValueChanged"
+                    MinimumTrackColor="Transparent"
+                    MaximumTrackColor="Transparent"
+                    AbsoluteLayout.LayoutBounds="0,0,1,1"
+                    AbsoluteLayout.LayoutFlags="All"/>
+                            </AbsoluteLayout>
+                        </Frame>
+
+                        <!-- 1331 -->
+                        <Frame ZIndex="1"
+           WidthRequest="255"
+           HeightRequest="70"
+           CornerRadius="30"
+           Opacity="0.85"
+           BackgroundColor="#AAFFFFFF">
+                            <AbsoluteLayout HeightRequest="70" WidthRequest="255">
+                                <!-- Размещаем Label -->
+                                <Label Padding="10"
+                   FontAttributes="Italic"
+                   FontSize="18"
+                   ZIndex="1"
+                   HorizontalOptions="End"
+                   HorizontalTextAlignment="End"
+                   VerticalTextAlignment="Center"
+                   HeightRequest="70"
+                   WidthRequest="255"
+                   AbsoluteLayout.LayoutBounds="0,0,1,1"
+                   AbsoluteLayout.LayoutFlags="All">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="Evakuator  " TextColor="Gray" FontAttributes="Italic"/>
+                                            <Span Text="1331" TextColor="Red" FontAttributes="Bold" />
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <!-- Размещаем Slider -->
+                                <Slider ZIndex="1"
+                    WidthRequest="255"
+                    HeightRequest="70"
+                    Minimum="1"
+                    Maximum="100"
+                    ThumbImageSource="crane.png"
+                    Value="9"
+                    x:Name="Evakuator"
+                    ValueChanged="Evakuator_ValueChanged"
+                    MinimumTrackColor="Transparent"
+                    MaximumTrackColor="Transparent"
+                    AbsoluteLayout.LayoutBounds="0,0,1,1"
+                    AbsoluteLayout.LayoutFlags="All"/>
+                            </AbsoluteLayout>
+                        </Frame>
+
+                    </VerticalStackLayout>
+
+
+                </ContentPage>
+            </x:Arguments>
+        </NavigationPage>
+    </FlyoutPage.Detail>
+    
+    </FlyoutPage>
